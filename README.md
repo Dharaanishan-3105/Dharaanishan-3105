@@ -9,8 +9,6 @@
 
 Welcome to my GitHub profile! I'm an **Enthusiastic Data Analyst** and final-year **B.Tech** student specializing in **Artificial Intelligence and Data Science**. I'm passionate about solving real-world problems using data, building AI-driven solutions, and creating impactful projects. I'm always excited to connect and collaborate. 🚀
 
-[Portfolio](https://dharaanishan-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/dharaanishan-selvendran-4d312005) · [Email](mailto:studentdharaan@gmail.com)
-
 </div>
 
 ---
@@ -27,19 +25,6 @@ Welcome to my GitHub profile! I'm an **Enthusiastic Data Analyst** and final-yea
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharaanishan-3105&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharaanishan-3105&theme=radical&hide_border=true" alt="Streak" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharaanishan-3105&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="350"/>
 </p>
 
 ---
