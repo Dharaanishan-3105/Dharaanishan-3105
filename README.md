@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm an **Enthusiastic Data Analyst** and final-yea
 - 🎓 **Currently pursuing B.Tech** in Artificial Intelligence & Data Science at **Indra Ganesan College of Engineering**, Trichy — CGPA: **8.22/10**.
 - 💼 **Data Science & AI Intern** at **Besant Technologies**, Velachery, Chennai (Dec 2025 – Present) — collaborating on end-to-end Data Science workflows, including data cleaning, exploratory data analysis (EDA), and the development of predictive models using Python and SQL. Assisting in deploying AI-driven solutions and fine-tuning machine learning algorithms to improve model accuracy and business insights.
 - 💡 **Skilled in**: Python, SQL, Power BI, Excel, Flask, TensorFlow, PyTorch, Scikit-learn, OpenCV, and Git.
-- 🌟 **Aspiring Data Analyst / BI Professional**: Eager to contribute to roles that leverage data for business insights and decision-making.
+- 🌟 **AAspiring Data Analyst & Machine Learning Engineer**: Focused on transforming data into actionable insights through analytics, predictive modeling, and AI-driven solutions.
 - 🏆 **Achievements**: **1st Prize** – Project Expo (2024 & 2025) at Indra Ganesan College of Engineering; **1st Prize** – Science Tech Fest 2025 at Dhanalakshmi Srinivasan University, Trichy; **2nd Prize** – Paper Presentation at FESTRONIX'2K25, K. Ramakrishnan College of Technology; **2nd Prize** – Analytix & Flick Frenzy (2024) at SRM Valliammai Engineering College, Chennai.
 - 🌱 **Exploring**: Advanced ML models, Generative AI, real-time analytics, computer vision, and full-stack data applications.
 
