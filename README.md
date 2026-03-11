@@ -133,7 +133,7 @@ Welcome to my GitHub profile! I'm an **Enthusiastic Data Analyst** and final-yea
 
 ###
 
-<h3 align="left">🌟My Stats :</h3>
+<h3 align="left">🌟 My Stats :</h3>
 
 ###
 
@@ -144,6 +144,8 @@ Welcome to my GitHub profile! I'm an **Enthusiastic Data Analyst** and final-yea
 </div>
 
 ###
+
+
 
 
 <p align="center">Thanks for visiting! Feel free to check out my repositories, and if you're interested in collaborating on data science, AI, or full-stack projects, don't hesitate to reach out. Let's build something amazing together! 🌟</p>
