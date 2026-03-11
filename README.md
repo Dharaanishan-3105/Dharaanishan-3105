@@ -135,13 +135,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dharaanishan-3105/Dharaanishan-3105/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dharaanishan-3105/Dharaanishan-3105/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dharaanishan-3105/Dharaanishan-3105/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 <p align="center">Thanks for visiting! Feel free to check out my repositories, and if you're interested in collaborating on data science, AI, or full-stack projects, don't hesitate to reach out. Let's build something amazing together! 🌟</p>
 
