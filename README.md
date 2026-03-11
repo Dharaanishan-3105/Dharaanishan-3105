@@ -43,15 +43,11 @@
 ###
 
 <p align="center">
-  Welcome to my GitHub profile!<br><br>
-
-  I'm an <strong>Enthusiastic Data Analyst</strong> and final-year 
-  <strong>B.Tech</strong> student specializing in 
-  <strong>Artificial Intelligence and Data Science</strong>.<br><br>
-
-  I'm passionate about solving real-world problems using data, 
-  building AI-driven solutions, and creating impactful projects.<br><br>
-
+  Welcome to my GitHub profile! I'm an <strong>Enthusiastic Data Analyst</strong> 
+  and final-year <strong>B.Tech</strong> student specializing in 
+  <strong>Artificial Intelligence and Data Science</strong>. 
+  I'm passionate about solving real-world problems using data, building 
+  AI-driven solutions, and creating impactful projects. 
   I'm always excited to connect and collaborate. 🚀
 </p>
 
