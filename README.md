@@ -42,7 +42,11 @@
 
 ###
 
-<p align="center">Welcome to my GitHub profile! I'm an **Enthusiastic Data Analyst** and final-year **B.Tech** student specializing in **Artificial Intelligence and Data Science**. I'm passionate about solving real-world problems using data, building AI-driven solutions, and creating impactful projects. I'm always excited to connect and collaborate. 🚀</p>
+<p align="center">
+
+Welcome to my GitHub profile! I'm an **Enthusiastic Data Analyst** and final-year **B.Tech** student specializing in **Artificial Intelligence and Data Science**. I'm passionate about solving real-world problems using data, building AI-driven solutions, and creating impactful projects. I'm always excited to connect and collaborate. 🚀
+
+</p>
 
 ###
 
@@ -119,7 +123,13 @@
 
 ###
 
-<p align="left">- 🔭 Working on **AI/ML projects** and **data pipelines**<br>- 🌱 Learning **advanced ML**, **Generative AI** & **data engineering**<br>- 👯 Open to **collaboration** on data science & full-stack projects<br>- 💬 Ask me about **Python**, **SQL**, **Power BI**, **Flask** or **ML**</p>
+<p align="left">
+
+- 🔭 Working on **AI/ML projects** and **data pipelines**<br>
+- 🌱 Learning **advanced ML**, **Generative AI** & **data engineering**<br>
+- 👯 Open to **collaboration** on data science & full-stack projects<br>
+- 💬 Ask me about **Python**, **SQL**, **Power BI**, **Flask** or **ML**
+</p>
 
 ###
 
